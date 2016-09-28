@@ -1,8 +1,22 @@
+#top-section {
+    background-color: #1565C0;
+    background: -moz-linear-gradient(top,  rgba(21,101,192,1) 0%, rgba(21,101,192,1) 75%,rgba(21,101,192,0) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(21,101,192,1)),color-stop(75%,rgba(21,101,192,1)), color-stop(100%,rgba(255,255,255,0)));
+    background: -webkit-linear-gradient(top,  rgba(21,101,192,1) 0%, rgba(21,101,192,1) 75%,rgba(21,101,192,0) 100%);
+    background: -o-linear-gradient(top,  rgba(21,101,192,1) 0%, rgba(21,101,192,1) 75%,rgba(21,101,192,0) 100%);
+    background: -ms-linear-gradient(top,  rgba(21,101,192,1) 0%, rgba(21,101,192,1) 75%,rgba(21,101,192,0) 100%);
+    background: linear-gradient(to bottom,  rgba(21,101,192,1) 0%, rgba(21,101,192,1) 75%,rgba(21,101,192,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=0 );
+    height: 40rem;
+    z-index: 2;
+}
 #bottom-section {
-      width: auto;
-      height: auto;
+    width: auto;
+    height:100%;
+    background-color: #00B0FF;
+    z-index: 1;
 }
 #parrallax-paper {
-      width: auto;
-      height: auto;
+    width: auto;
+    height: auto;
 }
