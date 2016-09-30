@@ -8,13 +8,14 @@
     background: linear-gradient(to bottom,  rgba(21,101,192,1) 0%, rgba(21,101,192,1) 75%,rgba(21,101,192,0) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=0 );
     height: 40rem;
+    position: fixed;
     z-index: 2;
 }
 #bottom-section {
     width: auto;
-    height:100%;
+    height:100vh;
     background-color: #00B0FF;
-    z-index: 1;
+    z-index: 3;
 }
 #parrallax-paper {
     width: auto;
