@@ -61,6 +61,8 @@ body {
 #bottom-section {
     width: auto;
     height:100vh;
+      width: auto;
+      height: 50rem;
 }
 #parrallax-paper {
     width: auto;
