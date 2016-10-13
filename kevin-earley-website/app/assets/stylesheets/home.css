@@ -61,18 +61,28 @@ body {
 #bottom-section {
     width: auto;
     height:100vh;
-      width: auto;
-      height: 50rem;
+    width: auto;
+    height: 50rem;
 }
 #parrallax-paper {
     width: auto;
     height: auto;
 }
 #home {
-  height: 3rem;
-  width: 20rem;
-  background-color: #F5F5F5;
-  border-radius: 1.5rem;
-  display: flex;
-  z-index: 3;
+    height: 3rem;
+    width: 20rem;
+    background-color: #F5F5F5;
+    border-radius: 1.5rem;
+    display: flex;
+    z-index: 3;
+    justify-content: center;
+    position:relative
+}
+#page-title {
+    font-family: Kalam,bold;
+    font-size: 1.8rem;
+    position:absolute;
+    top:-50%;
+    color: #3D5AFE;
+    font-variant: small-caps;
 }
