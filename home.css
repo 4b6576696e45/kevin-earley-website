@@ -86,3 +86,13 @@ body {
     color: #3D5AFE;
     font-variant: small-caps;
 }
+.blog-post-div {
+  font-family: rubik;
+  font-weight:500;
+  font-size: 1.6rem;
+  line-height: 2.5rem;
+  background-color: #64FFDA;
+  margin: 2.5rem;
+  padding: 2rem;
+  border-radius: 1.5rem;
+}
