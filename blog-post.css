@@ -21,7 +21,7 @@ body {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\0000320}}
 #bottom-section {
   width: auto;
-  height: 100vh; }
+  height: auto; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\0000324}}
 #parrallax-paper {
@@ -46,7 +46,7 @@ body {
   margin-right: auto;
   margin-top: 2.5rem; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\0000342}}
 #page-title {
   font-family: Kalam;
   font-weight: 700;
@@ -54,7 +54,8 @@ body {
   position: absolute;
   top: -50%;
   color: #2979FF;
-  font-variant: small-caps; }
+  font-variant: small-caps;
+  text-decoration: none; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\0000353}}
 #bio-header {
@@ -170,17 +171,18 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-top: -1.35vh;
-  margin-bottom: 0vh; }
+  margin-bottom: 0vh;
+  text-decoration: none; }
 
 @media (max-width: 450px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003160}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003161}}
   .next-button {
     margin-left: 0rem;
     margin-right: 0rem;
     margin-top: 0vh;
     margin-bottom: 0vh; } }
 @media (min-width: 450px) and (max-width: 800px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003167}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003168}}
   .next-button {
     margin-left: 1rem;
     margin-right: 1rem;
@@ -188,7 +190,7 @@ body {
     margin-bottom: 1vh;
     border-radius: 5vh; } }
 @media (min-width: 800px) and (max-width: 1300px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003175}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003176}}
   .next-button {
     margin-left: 5vw;
     margin-right: 5vw;
@@ -196,7 +198,7 @@ body {
     margin-bottom: 1.5vh;
     border-radius: 5vh; } }
 @media (min-width: 1300px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003183}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003184}}
   .next-button {
     margin-left: 20vw;
     margin-right: 20vw;

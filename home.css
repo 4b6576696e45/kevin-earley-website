@@ -1,103 +1,136 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/home\.sass}line{font-family:\000031}}
 body {
-  background: #00B0FF;
-}
+  background: #81D4FA; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/home\.sass}line{font-family:\000035}}
 #top-section {
-    background-color: #1565C0;
-    background: -moz-linear-gradient(top,  rgba(21,101,192,1) 0%, rgba(21,101,192,1) 75%,rgba(21,101,192,0) 100%);
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(21,101,192,1)),color-stop(75%,rgba(21,101,192,1)), color-stop(100%,rgba(255,255,255,0)));
-    background: -webkit-linear-gradient(top,  rgba(21,101,192,1) 0%, rgba(21,101,192,1) 75%,rgba(21,101,192,0) 100%);
-    background: -o-linear-gradient(top,  rgba(21,101,192,1) 0%, rgba(21,101,192,1) 75%,rgba(21,101,192,0) 100%);
-    background: -ms-linear-gradient(top,  rgba(21,101,192,1) 0%, rgba(21,101,192,1) 75%,rgba(21,101,192,0) 100%);
-    background: linear-gradient(to bottom,  rgba(21,101,192,1) 0%, rgba(21,101,192,1) 75%,rgba(21,101,192,0) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=0 );
-    height: 40vh;
-    z-index: 2;
-    padding-top: 5vh;
-    display: flex;
-    justify-content: center;
-}
+  height: 40vh;
+  background-color: #1565C0;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #2979ff), color-stop(75%, #2979ff), color-stop(100%, rgba(41, 121, 255, 0)));
+  background: -webkit-linear-gradient(top, #2979ff 0%, #2979ff 75%, rgba(41, 121, 255, 0) 100%);
+  background: linear-gradient(to bottom, #2979ff 0%, #2979ff 75%, rgba(41, 121, 255, 0) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=0 );
+  z-index: 2;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/home\.sass}line{font-family:\0000320}}
 #bottom-section {
-    width: auto;
-    height:100vh;
-    width: auto;
-    height: 50rem;
-}
+  width: auto;
+  height: auto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/home\.sass}line{font-family:\0000324}}
 #parrallax-paper {
-    width: auto;
-    height: auto;
-}
+  width: auto;
+  height: auto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/home\.sass}line{font-family:\0000329}}
 #home {
-    height: 3rem;
-    width: 20rem;
-    background-color: #F5F5F5;
-    border-radius: 1.5rem;
-    display: flex;
-    z-index: 3;
-    justify-content: center;
-    position:relative;
-    margin-left: auto;
-    margin-right: auto;
-}
+  height: 3rem;
+  width: 20rem;
+  background-color: #F5F5F5;
+  border-radius: 1.5rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  z-index: 3;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2.5rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/home\.sass}line{font-family:\0000342}}
 #page-title {
-    font-family: Kalam;
-    font-weight: 700;
-    font-size: 1.8rem;
-    position:absolute;
-    top:-50%;
-    color: #3D5AFE;
-    font-variant: small-caps;
-}
+  font-family: Kalam;
+  font-weight: 700;
+  font-size: 1.8rem;
+  position: absolute;
+  top: -50%;
+  color: #2979FF;
+  font-variant: small-caps;
+  text-decoration: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/home\.sass}line{font-family:\0000353}}
 #bio-header {
   font-family: Kalam;
   font-weight: 400;
   font-size: 2.2rem;
   line-height: 1.5rem;
-  color: #F5F5F5;
-}
+  color: #F5F5F5; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/home\.sass}line{font-family:\0000361}}
 #bio-text {
   font-family: rubik;
-  font-weight:400;
+  font-weight: 400;
   font-size: 1.6rem;
   line-height: 2.5rem;
-  color: #F5F5F5;
-}
+  color: #F5F5F5; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/home\.sass}line{font-family:\0000369}}
 #bio {
   margin: 1.5rem;
-  height: 25vh;;
-  overflow-y: scroll;
-}
-.blog-post-head {
+  height: 20vh;
+  overflow-y: scroll; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/home\.sass}line{font-family:\0000374}}
+#timeline {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  overflow-x: scroll; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/home\.sass}line{font-family:\0000380}}
+.post-dot-text {
   font-family: Kalam;
   font-weight: 700;
-  font-size: 2rem;
-  line-height: 2rem;
-  color: #536DFE;
-}
-.blog-post-text {
-  font-family: rubik;
-  font-weight:400;
-  font-size: 1.6rem;
-  line-height: 2.5rem;
-  color: #212121;
-}
-.blog-post-div {
-  background-color: #B3E5FC;
-  margin: 2.5rem;
-  padding: 1.5rem;
-  border-radius: 1.5rem;
-}
+  font-size: 4vh;
+  line-height: 4vh;
+  color: #E3F2FD;
+  font-variant: small-caps;
+  text-align: center;
+  margin-top: 0vh; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/home\.sass}line{font-family:\0000390}}
+.post-dot {
+  background-color: #0091EA;
+  width: 20vh;
+  height: 20vh;
+  border-radius: 20vh;
+  padding: 4vh;
+  margin: 5vw; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/home\.sass}line{font-family:\0000398}}
 #site-construction-alert {
   background-color: #FF6D00;
   color: #F5F5F5;
   width: auto;
-  height: 4vh;
-  margin: 0rem;
+  height: 3rem;
+  margin: auto;
   font-family: rubik;
   font-weight: 700;
   font-size: 1.5rem;
   vertical-align: middle;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   padding: 0rem;
-  line-height: 0rem;
-}
+  line-height: 0rem; }
+
+/*# sourceMappingURL=home.css.map */
