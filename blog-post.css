@@ -1,43 +1,44 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\0000332}}
 body {
-  background: #81d4fa; }
+  background: #81D4FA; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\0000336}}
 #top-section {
   height: 11rem;
-  background-color: #1565c0;
+  background-color: #1565C0;
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #2979ff), color-stop(75%, #2979ff), color-stop(100%, rgba(41, 121, 255, 0)));
   background: -webkit-linear-gradient(top, #2979ff 0%, #2979ff 75%, rgba(41, 121, 255, 0) 100%);
   background: linear-gradient(to bottom, #2979ff 0%, #2979ff 75%, rgba(41, 121, 255, 0) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=0 );
   z-index: 2;
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-  -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\0000351}}
 #bottom-section {
   width: auto;
   height: auto; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\0000355}}
 #parrallax-paper {
   width: auto;
   height: auto; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\0000360}}
 #home {
   height: 3rem;
   width: 20rem;
-  background-color: whitesmoke;
+  background-color: #F5F5F5;
   border-radius: 1.5rem;
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   z-index: 3;
   -webkit-box-pack: center;
-  -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
   position: relative;
@@ -45,43 +46,49 @@ body {
   margin-right: auto;
   margin-top: 2.5rem; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\0000373}}
 #page-title {
   font-family: Kalam;
   font-weight: 700;
   font-size: 1.8rem;
   position: absolute;
   top: -50%;
-  color: #2979ff;
+  color: #2979FF;
   font-variant: small-caps;
   text-decoration: none; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\0000384}}
 #bio-header {
   font-family: Kalam;
   font-weight: 400;
   font-size: 2.2rem;
   line-height: 1.5rem;
-  color: whitesmoke; }
+  color: #F5F5F5; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\0000392}}
 #bio-text {
   font-family: rubik;
   font-weight: 400;
   font-size: 1.6rem;
   line-height: 2.5rem;
-  color: whitesmoke; }
+  color: #F5F5F5; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003100}}
 #bio {
   margin: 1.5rem;
   height: 25vh;
   overflow-y: scroll; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003106}}
 .blog-post-head {
   font-family: Kalam;
   font-weight: 700;
   font-size: 2.4rem;
   line-height: 2rem;
-  color: #2979ff;
+  color: #2979FF;
   font-variant: small-caps; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003115}}
 .blog-post-text {
   font-family: rubik;
   font-weight: 400;
@@ -89,39 +96,54 @@ body {
   line-height: 2.8rem;
   color: #263238; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003123}}
 .blog-post-div {
-  background-color: #b3e5fc; }
+  background-color: #B3E5FC; }
 
 @media (max-width: 450px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003127}}
   .blog-post-div {
+    -webkit-transition: margin-left 50ms ease-in-out, margin-right 50ms ease-in-out, margin-top 50ms ease-in-out, border-radius 50ms ease-in-out, padding 50ms ease-in-out;
+    transition: margin-left 50ms ease-in-out, margin-right 50ms ease-in-out, margin-top 50ms ease-in-out, border-radius 50ms ease-in-out, padding 50ms ease-in-out;
     margin-left: 0rem;
     margin-right: 0rem;
     margin-top: 2vh;
-    padding: 1.5rem; } }
+    padding: 1.5rem;
+    border-radius: 0rem; } }
 @media (min-width: 450px) and (max-width: 800px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003136}}
   .blog-post-div {
+    -webkit-transition: margin-left 50ms ease-in-out, margin-right 50ms ease-in-out, margin-top 50ms ease-in-out, border-radius 50ms ease-in-out, padding 50ms ease-in-out;
+    transition: margin-left 50ms ease-in-out, margin-right 50ms ease-in-out, margin-top 50ms ease-in-out, border-radius 50ms ease-in-out, padding 50ms ease-in-out;
     margin-left: 1rem;
     margin-right: 1rem;
     margin-top: 5vh;
     padding: 1.8rem;
     border-radius: 1rem; } }
 @media (min-width: 800px) and (max-width: 1300px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003145}}
   .blog-post-div {
+    -webkit-transition: margin-left 50ms ease-in-out, margin-right 50ms ease-in-out, margin-top 50ms ease-in-out, border-radius 50ms ease-in-out, padding 50ms ease-in-out;
+    transition: margin-left 50ms ease-in-out, margin-right 50ms ease-in-out, margin-top 50ms ease-in-out, border-radius 50ms ease-in-out, padding 50ms ease-in-out;
     margin-left: 5vw;
     margin-right: 5vw;
     margin-top: 5vh;
     padding: 2rem;
     border-radius: 1.25rem; } }
 @media (min-width: 1300px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003154}}
   .blog-post-div {
+    -webkit-transition: margin-left 50ms ease-in-out, margin-right 50ms ease-in-out, margin-top 50ms ease-in-out, border-radius 50ms ease-in-out, padding 50ms ease-in-out;
+    transition: margin-left 50ms ease-in-out, margin-right 50ms ease-in-out, margin-top 50ms ease-in-out, border-radius 50ms ease-in-out, padding 50ms ease-in-out;
     margin-left: 20vw;
     margin-right: 20vw;
     margin-top: 5vh;
     padding: 3rem;
     border-radius: 1.25rem; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003162}}
 #site-construction-alert {
-  background-color: #ff6d00;
-  color: whitesmoke;
+  background-color: #FF6D00;
+  color: #F5F5F5;
   width: auto;
   height: 3rem;
   margin: auto;
@@ -130,139 +152,105 @@ body {
   font-size: 1.5rem;
   vertical-align: middle;
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-  -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
   padding: 0rem;
   line-height: 0rem; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003177}}
 .next-button {
-  background-color: #2962ff;
+  background-color: #2962FF;
   width: auto;
   height: 6vh;
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   padding: 0rem; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003183}}
+  .next-button:active {
+    background-color: #82B1FF; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003185}}
+  .next-button:hover {
+    background-color: #40C4FF; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003187}}
+  .next-button:visited {
+    background-color: #2962FF; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003190}}
 .next-button-text {
   font-family: Rubik;
   font-weight: 400;
   font-size: 2.75vh;
-  color: #e3f2fd;
+  color: #E3F2FD;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
   margin-top: -1.35vh;
-  margin-bottom: 0vh;
+  margin-bottom: 0vh; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003201}}
+.next-button p {
   text-decoration: none; }
 
 @media (max-width: 450px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003205}}
   .next-button {
+    -webkit-transition: margin-left 50ms ease-in-out, margin-right 50ms ease-in-out, margin-top 50ms ease-in-out, margin-bottom 50ms ease-in-out, border-radius 50ms ease-in-out;
+    transition: margin-left 50ms ease-in-out, margin-right 50ms ease-in-out, margin-top 50ms ease-in-out, margin-bottom 50ms ease-in-out, border-radius 50ms ease-in-out;
     margin-left: 0rem;
     margin-right: 0rem;
     margin-top: 0vh;
-    margin-bottom: 0vh; } }
+    margin-bottom: 0vh;
+    border-radius: 0rem; } }
 @media (min-width: 450px) and (max-width: 800px) {
-  .next-button a:link {
-    margin-left: 1rem;
-    margin-right: 1rem;
-    margin-top: 1vh;
-    margin-bottom: 1vh;
-    border-radius: 5vh; }
-
-  .next-button a:visited {
-    margin-left: 1rem;
-    margin-right: 1rem;
-    margin-top: 1vh;
-    margin-bottom: 1vh;
-    border-radius: 5vh; }
-
-  .next-button a:hover {
-    margin-left: 0.5rem;
-    margin-right: 0.5rem;
-    margin-top: 0.5vh;
-    margin-bottom: 0.5vh;
-    border-radius: 5vh; }
-
-  .next-button a:active {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003214}}
+  .next-button {
+    -webkit-transition: margin-left 50ms ease-in-out, margin-right 50ms ease-in-out, margin-top 50ms ease-in-out, margin-bottom 50ms ease-in-out, border-radius 50ms ease-in-out;
+    transition: margin-left 50ms ease-in-out, margin-right 50ms ease-in-out, margin-top 50ms ease-in-out, margin-bottom 50ms ease-in-out, border-radius 50ms ease-in-out;
     margin-left: 1rem;
     margin-right: 1rem;
     margin-top: 1vh;
     margin-bottom: 1vh;
     border-radius: 5vh; } }
 @media (min-width: 800px) and (max-width: 1300px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003223}}
   .next-button {
-    margin-left: 5vw;
-    margin-right: 5vw;
-    margin-top: 1.5vh;
-    margin-bottom: 1.5vh;
-    border-radius: 5vh; }
-
-  .next-button a:link {
-    margin-left: 5vw;
-    margin-right: 5vw;
-    margin-top: 1.5vh;
-    margin-bottom: 1.5vh;
-    border-radius: 5vh; }
-
-  .next-button a:visited {
-    margin-left: 5vw;
-    margin-right: 5vw;
-    margin-top: 1.5vh;
-    margin-bottom: 1.5vh;
-    border-radius: 5vh; }
-
-  .next-button a:hover {
-    margin-left: 4vw;
-    margin-right: 4vw;
-    margin-top: 1vh;
-    margin-bottom: 1vh;
-    border-radius: 5vh; }
-
-  .next-button a:active {
+    -webkit-transition: margin-left 50ms ease-in-out, margin-right 50ms ease-in-out, margin-top 50ms ease-in-out, margin-bottom 50ms ease-in-out, border-radius 50ms ease-in-out;
+    transition: margin-left 50ms ease-in-out, margin-right 50ms ease-in-out, margin-top 50ms ease-in-out, margin-bottom 50ms ease-in-out, border-radius 50ms ease-in-out;
     margin-left: 5vw;
     margin-right: 5vw;
     margin-top: 1.5vh;
     margin-bottom: 1.5vh;
     border-radius: 5vh; } }
 @media (min-width: 1300px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003232}}
   .next-button {
-    margin-left: 20vw;
-    margin-right: 20vw;
-    margin-top: 2.5vh;
-    margin-bottom: 2.5vh;
-    border-radius: 5vh; }
-
-  .next-button a:link {
-    margin-left: 20vw;
-    margin-right: 20vw;
-    margin-top: 2.5vh;
-    margin-bottom: 2.5vh;
-    border-radius: 5vh; }
-
-  .next-button a:visited {
-    margin-left: 20vw;
-    margin-right: 20vw;
-    margin-top: 2.5vh;
-    margin-bottom: 2.5vh;
-    border-radius: 5vh; }
-
-  .next-button a:hover {
-    margin-left: 18vw;
-    margin-right: 18vw;
-    margin-top: 2vh;
-    margin-bottom: 2vh;
-    border-radius: 5vh; }
-
-  .next-button a:active {
+    -webkit-transition: margin-left 50ms ease-in-out, margin-right 50ms ease-in-out, margin-top 50ms ease-in-out, margin-bottom 50ms ease-in-out, border-radius 50ms ease-in-out;
+    transition: margin-left 50ms ease-in-out, margin-right 50ms ease-in-out, margin-top 50ms ease-in-out, margin-bottom 50ms ease-in-out, border-radius 50ms ease-in-out;
     margin-left: 20vw;
     margin-right: 20vw;
     margin-top: 2.5vh;
     margin-bottom: 2.5vh;
     border-radius: 5vh; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003240}}
+.hover-state {
+  background-color: #1DE9B6;
+  border-radius: 50vh;
+  height: auto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003245}}
+.hover-state-off {
+  -webkit-transition: width 200ms ease-in-out;
+  transition: width 200ms ease-in-out;
+  width: 0rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kevinearley\/Desktop\/School\/Junior\/Tech\%20Help\%20Desk\/Tech\%20Help\%20Desk\%20Blog\/kevin-earley-website\/blog-post\.sass}line{font-family:\00003249}}
+.hover-state-on {
+  -webkit-transition: width 200ms ease-in-out;
+  transition: width 200ms ease-in-out;
+  width: 100rem; }
+
+/*# sourceMappingURL=blog-post.css.map */
