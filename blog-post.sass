@@ -34,7 +34,7 @@ body
 
 
 #top-section
-  height: 11rem
+  height: 20vh
   background-color: #1565C0
   background: -moz-linear-gradient(top, rgba(41, 121, 255, 1) 0%, rgba(41, 121, 255, 1) 75%, rgba(41, 121, 255, 0) 100%)
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(41, 121, 255, 1)), color-stop(75%, rgba(41, 121, 255, 1)), color-stop(100%, rgba(41, 121, 255, 0)))
@@ -58,6 +58,7 @@ body
 
 
 #home
+  @include transition(height 200ms ease-in-out, width 200ms ease-in-out, background-color 200ms ease-in-out, color 200ms ease-in-out, box-shadow 200ms ease-in-out)
   height: 3rem
   width: 20rem
   background-color: #F5F5F5
@@ -68,7 +69,57 @@ body
   position: relative
   margin-left: auto
   margin-right: auto
-  margin-top: 2.5rem
+  margin-top: 7.5vh
+  color: #2979FF
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
+
+  &:hover
+    @include transition(height 200ms ease-in-out, width 200ms ease-in-out, background-color 200ms ease-in-out, color 200ms ease-in-out, box-shadow 200ms ease-in-out)
+    height: 3rem
+    width: 25rem
+    background-color: #0D47A1
+    border-radius: 1.5rem
+    display: flex
+    z-index: 3
+    justify-content: center
+    position: relative
+    margin-left: auto
+    margin-right: auto
+    margin-top: 7.5vh
+    color: #BBDEFB
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)
+
+  &:active
+    @include transition(height 200ms ease-in-out, width 200ms ease-in-out, background-color 200ms ease-in-out, color 200ms ease-in-out, box-shadow 200ms ease-in-out)
+    height: 3rem
+    width: 20rem
+    background-color: #0D47A1
+    border-radius: 1.5rem
+    display: flex
+    z-index: 3
+    justify-content: center
+    position: relative
+    margin-left: auto
+    margin-right: auto
+    margin-top: 7.5vh
+    color: #BBDEFB
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)
+
+  &:visited
+    @include transition(height 200ms ease-in-out, width 200ms ease-in-out, background-color 200ms ease-in-out, color 200ms ease-in-out, box-shadow 200ms ease-in-out)
+    height: 3rem
+    width: 20rem
+    background-color: #F5F5F5
+    border-radius: 1.5rem
+    display: flex
+    z-index: 3
+    justify-content: center
+    position: relative
+    margin-left: auto
+    margin-right: auto
+    margin-top: 7.5vh
+    color: #2979FF
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
 
 #page-title
   font-family: Kalam
@@ -76,7 +127,6 @@ body
   font-size: 1.8rem
   position: absolute
   top: -50%
-  color: #2979FF
   font-variant: small-caps
   text-decoration: none
 
@@ -162,17 +212,19 @@ body
 #site-construction-alert
   background-color: #FF6D00
   color: #F5F5F5
-  width: auto
-  height: 3rem
+  width: 100vw
+  height: 5vh
   margin: auto
   font-family: rubik
   font-weight: 700
-  font-size: 1.5rem
+  font-size: 2.75vh
   vertical-align: middle
   display: flex
   justify-content: center
   padding: 0rem
   line-height: 0rem
+  position: fixed
+  z-index: 5
 
 .next-button
   background-color: #2962FF
