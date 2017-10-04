@@ -1,6 +1,0 @@
-$(document).ready(function(){
-   $('.next-button').hover(
-      function(){
-         $('#hover-state').addClass('.hover-state-on').removeClass('.hover-state-off');
-      }
-});
