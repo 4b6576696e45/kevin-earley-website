@@ -15,6 +15,20 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/app.yaml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app.yaml",
+		"oF": 0
+		},
+	"\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/README.md": {
 		"cS": 0,
 		"eF": 1,
