@@ -1,0 +1,29 @@
+"name": "kevin-earley-website",
+"version": "2.0.1",
+"description": "Kevin Earley's personal website and blog",
+"keywords": [
+      "Kevin Earley",
+      "Kevin",
+      "Earley",
+      "SHS",
+      "Tech Help Desk",
+      "SHS Help Desk",
+      "SHS Tech Help Desk",
+      "Help Desk",
+      "SHS Tech",
+      "SHS Select Choir",
+      "Select Choir",
+      "Props",
+      "Sketchy Thoughts",
+      "Sharon Historical Society",
+],
+
+"repository": {
+      "type": "git",
+      "url": "https://github.com/kearley2018/kevin-earley-website/tree/2017-overhaul"
+  },
+"main": "app.js",
+"scripts": {
+},
+"dependencies": {
+},
