@@ -15,12 +15,6 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
-	"\/app.yaml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/app.yaml",
-		"oF": 0
-		},
 	"\/google-cloud-sdk\/.install\/bq-nix.manifest": {
 		"ft": 8192,
 		"oA": 2,
