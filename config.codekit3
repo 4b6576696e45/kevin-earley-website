@@ -15,10 +15,10 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
-	"\/packages\/.travis.yml": {
+	"\/packages\/.travis.yml.swp": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/packages\/.travis.yml",
+		"oAP": "\/packages\/.travis.yml.swp",
 		"oF": 0
 		},
 	"\/packages\/google-cloud-sdk\/.install\/bq-nix.manifest": {
